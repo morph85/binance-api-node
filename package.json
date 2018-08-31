@@ -1,5 +1,5 @@
 {
-  "name": "binance-api-node",
+  "name": "cryptolib-binance-api-node",
   "version": "0.8.3",
   "description": "A node API wrapper for Binance",
   "main": "dist",
